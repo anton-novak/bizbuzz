@@ -1,6 +1,6 @@
 <h1>BizBuzz</h1>
 
-BizBuzz is a WIP CRM and data visualisation tool for small businesses. It was created by Marzena Recio Gromowska, Anton Novak, Xavi Vide, and Andrew Pearson, as their thesis project at CodeWorks boot camp.
+BizBuzz is a WIP CRM and data visualisation tool for small businesses. It was created by Marzena Recio Gromowska, Anton Novak, Xavi Vide, and Andrew Pearson.
 
 <h2>What it does</h2>
 
